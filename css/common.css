@@ -22,3 +22,12 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+.gallery{
+  display: flex;
+  gap: 10px;
+
+}
+.img_item {
+width: 30%;
+height: 30%;
+}
